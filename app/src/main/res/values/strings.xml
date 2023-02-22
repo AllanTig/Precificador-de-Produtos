@@ -1,6 +1,6 @@
 <resources>
     <string name="app_name">Precificador de Produtos</string>
-    <string name="title_home">Home</string>
-    <string name="title_dashboard">Dashboard</string>
-    <string name="title_notifications">Notifications</string>
+    <string name="title_Listagem">Listagem</string>
+    <string name="title_Precificador">Precificador</string>
+    <string name="title_NovosProdutos">Novos Produtos</string>
 </resources>
